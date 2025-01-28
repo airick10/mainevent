@@ -198,46 +198,90 @@
             "Powerhouse": [
                 "{loser} drops a giant elbow on {winner}!  He slowly picks {winner} up.",
                 "Big Splash!  Ouch! {loser} comes down hard on {winner}!  Can he even breathe?  {winner} eventually gets up",
-                "{loser} bounces off the ropes and slowly drops a giant leg drop across the throat of {winner}!  {loser} brings {winner} to his feet."
+                "{loser} bounces off the ropes and slowly drops a giant leg drop across the throat of {winner}!  {loser} brings {winner} to his feet.",
+                "{loser} drives a massive knee into the back of {winner}! The impact echoes through the arena!",
+                "{loser} lifts {winner} slightly off the ground and slams him back down with force!",
+                "As {winner} struggles on the mat, {loser} crushes him with a thunderous running splash!",
+                "{loser} grabs {winner}'s arm and stomps on his chest, keeping him grounded!",
+                "{loser} hoists {winner} up slightly and plants him back down with a punishing sit-out slam!"
             ],
             "All-Around": [
                 "{loser} picks up {winner}'s leg and drops and elbow on the knee!  {winner} grabs his leg in pain!  {loser} allows {winner} to get up.",
                 "Stomping away... {loser} keeps kicking {winner} on the ground and then brings him to his feet.",
-                "Flinging himself off the ropes, {loser} drops an elbow to the heart of {winner}!  {winner} eventually gets to his feet holding his chest."
+                "Flinging himself off the ropes, {loser} drops an elbow to the heart of {winner}!  {winner} eventually gets to his feet holding his chest.",
+                "{loser} drops a quick knee to {winner}'s back and locks in a chinlock for added pressure!",
+                "{loser} flips {winner} over and delivers a double foot stomp to the midsection!",
+                "{loser} grabs {winner}'s arm and delivers a twisting arm lock on the ground before releasing!",
+                "{loser} plants an elbow to the back of {winner}'s head and backs off, waiting for him to rise.",
+                "As {winner} stirs, {loser} lands a perfectly timed spinning elbow drop!"
             ],
             "Brawler": [
                 "{loser} sits on top of {winner} and delivers blow after blow and gets up.  He waits for {winner} to get to his feet.",
                 "{loser} stomps away at {winner} on the mat!  He bends down and brings {winner} to his feet.",
-                "{loser} drops an elbow and gets up and again and drops another one!  {winner} rolls around in pain and eventually gets up"
+                "{loser} drops an elbow and gets up and again and drops another one!  {winner} rolls around in pain and eventually gets up",
+                "{loser} grabs a handful of {winner}'s hair and slams his head into the mat repeatedly!",
+                "{loser} drops to his knees and rains down hammer fists on {winner}'s chest!",
+                "{loser} delivers a sharp knee drop to {winner}'s ribs and taunts the crowd while {winner} writhes in pain.",
+                "{loser} drags {winner}'s head up slightly, yelling insults before slamming him back down!",
+                "{loser} lands a series of clubbing forearms to {winner}'s chest while he's grounded!"
             ]
         },
         "winner": {
             "Powerhouse": [
                 "{winner} drops a giant elbow on {loser}!  He slowly picks {loser} up.",
                 "Big Splash!  Ouch! {winner} comes down hard on {loser}!  Can he even breathe?  {loser} eventually gets up",
-                "{winner} bounces off the ropes and slowly drops a giant leg drop across the throat of {loser}!  {winner} brings {loser} to his feet."
+                "{winner} bounces off the ropes and slowly drops a giant leg drop across the throat of {loser}!  {winner} brings {loser} to his feet.",
+                "{winner} drives a massive knee into the back of {loser}! The impact echoes through the arena!",
+                "{winner} lifts {loser} slightly off the ground and slams him back down with force!",
+                "As {loser} struggles on the mat, {winner} crushes him with a thunderous running splash!",
+                "{winner} grabs {loser}'s arm and stomps on his chest, keeping him grounded!",
+                "{winner} hoists {loser} up slightly and plants him back down with a punishing sit-out slam!"
             ],
             "All-Around": [
                 "{winner} picks up {loser}'s leg and drops and elbow on the knee!  {loser} grabs his leg in pain!  {winner} allows {loser} to get up.",
                 "Stomping away... {winner} keeps kicking {loser} on the ground and then brings him to his feet.",
-                "Flinging himself off the ropes, {winner} drops an elbow to the heart of {loser}!  {loser} eventually gets to his feet holding his chest."
+                "Flinging himself off the ropes, {winner} drops an elbow to the heart of {loser}!  {loser} eventually gets to his feet holding his chest.",
+                "{winner} drops a quick knee to {loser}'s back and locks in a chinlock for added pressure!",
+                "{winner} flips {loser} over and delivers a double foot stomp to the midsection!",
+                "{winner} grabs {loser}'s arm and delivers a twisting arm lock on the ground before releasing!",
+                "{winner} plants an elbow to the back of {loser}'s head and backs off, waiting for him to rise.",
+                "As {loser} stirs, {winner} lands a perfectly timed spinning elbow drop!"
             ],
             "Brawler": [
                 "{winner} sits on top of {loser} and delivers blow after blow and gets up.  He waits for {loser} to get to his feet.",
                 "{winner} stomps away at {loser} on the mat!  He bends down and brings {loser} to his feet.",
-                "{winner} drops an elbow and gets up and again and drops another one!  {loser} rolls around in pain and eventually gets up"
+                "{winner} drops an elbow and gets up and again and drops another one!  {loser} rolls around in pain and eventually gets up",
+                "{winner} grabs a handful of {loser}'s hair and slams his head into the mat repeatedly!",
+                "{winner} drops to his knees and rains down hammer fists on {loser}'s chest!",
+                "{winner} delivers a sharp knee drop to {loser}'s ribs and taunts the crowd while {loser} writhes in pain.",
+                "{winner} drags {loser}'s head up slightly, yelling insults before slamming him back down!",
+                "{winner} lands a series of clubbing forearms to {loser}'s chest while he's grounded!"
             ]
         }
     },
     "loser_reversals_ground": [
         "{loser} rolls out of the way as {winner} tries to drop an elbow!  {loser} quickly gets to his feet!",
         "{winner} goes to pick up {loser}, but is met with a punch to the gut stunning {winner}!",
-        "On the mat, {loser} sweeps the leg of {winner} as he approaches!  What a reversal!  {loser} gets to his feet!"
+        "On the mat, {loser} sweeps the leg of {winner} as he approaches!  What a reversal!  {loser} gets to his feet!",
+        "{loser} rolls out of the way as {winner} goes for a stomp! {loser} counters with a quick dropkick to the knee!",
+        "{winner} tries to grab {loser}, but {loser} twists out and pulls {winner} down into a small package! Almost a pin!",
+        "{loser} catches {winner}'s arm and rolls through, locking in a quick armbar before letting go!",
+        "{loser} ducks under {winner}'s attack and springs up with a sudden jawbreaker! {winner} staggers back!",
+        "As {winner} leans down, {loser} grabs the back of his head and pulls him into a roll-up pin! So close!",
+        "{loser} grabs {winner}'s leg and pulls him off balance, causing {winner} to fall face-first onto the mat!",
+        "{loser} gets a foot up just in time as {winner} charges, sending him stumbling backward!"
     ],
     "winner_reversals_ground": [
         "{winner} rolls out of the way as {loser} tries to drop an elbow!  {winner} quickly gets to his feet!",
         "{loser} goes to pick up {winner}, but is met with a punch to the gut stunning {loser}!",
-        "On the mat, {winner} sweeps the leg of {loser} as he approaches!  What a reversal!  {winner} gets to his feet!"
+        "On the mat, {winner} sweeps the leg of {loser} as he approaches!  What a reversal!  {winner} gets to his feet!",
+        "{winner} rolls out of the way as {loser} goes for a stomp! {winner} counters with a quick dropkick to the knee!",
+        "{loser} tries to grab {winner}, but {winner} twists out and pulls {loser} down into a small package! Almost a pin!",
+        "{winner} catches {loser}'s arm and rolls through, locking in a quick armbar before letting go!",
+        "{winner} ducks under {loser}'s attack and springs up with a sudden jawbreaker! {loser} staggers back!",
+        "As {loser} leans down, {winner} grabs the back of his head and pulls him into a roll-up pin! So close!",
+        "{winner} grabs {loser}'s leg and pulls him off balance, causing {loser} to fall face-first onto the mat!",
+        "{winner} gets a foot up just in time as {loser} charges, sending him stumbling backward!"
     ],
     "sudden_finisher_scenarios": {
         "loser": {
@@ -316,6 +360,32 @@
                 "{winner} gathers himself and picks {loser} up... {winner_finisher}!",
                 "Taking a deep breath, {winner} sets up. Nails the {winner_finisher}! {loser} slams to the mat!",
                 "{winner} goes for the {winner_finisher}. Got it! {loser} is out cold!!"
+            ]
+        }
+    },
+    "signature_scenarios": {
+        "loser": {
+            "Standing": [
+                "Out of nowhere... Look out!  {loser_signature}!",
+                "{winner} tries to gather himself, {loser} connects with the {loser_signature}!",
+                "The crowd is roaring, seeing what is coming! {loser_signature}! {winner} is down!!"
+            ],
+            "Grapple": [
+                "{loser} sees an opening here!  He picks {winner} up... {loser_signature}!",
+                "{winner} looks out of it!  {loser} sets up. Nails the {loser_signature}! My Oh My!!",
+                "The momentum is so much on {loser}'s side! He goes for the {loser_signature}. Drops it!  Yes!"
+            ]
+        },
+        "winner": {
+            "Standing": [
+                "Out of nowhere... Look out!  {winner_signature}!",
+                "{loser} tries to gather himself, {winner} connects with the {winner_signature}!",
+                "The crowd is roaring, seeing what is coming! {winner_signature}! {loser} is down!!"
+            ],
+            "Grapple": [
+                "{winner} sees an opening here!  He picks {loser} up... {winner_signature}!",
+                "{loser} looks out of it!  {winner} sets up. Nails the {winner_signature}! My Oh My!!",
+                "The momentum is so much on {winner}'s side! He goes for the {winner_signature}. Drops it!  Yes!"
             ]
         }
     },
