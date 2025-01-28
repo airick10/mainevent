@@ -55,6 +55,8 @@ class Match:
             record.format(
                 winner=self.winner.name,
                 loser=self.loser.name,
+                winner_signature=self.winner.signature,
+                loser_signature=self.loser.signature,
                 winner_finisher=self.winner.finisher,
                 loser_finisher=self.loser.finisher
             )
@@ -218,6 +220,9 @@ class Match:
 
 
     def finisherStage(self):
+        if random.randrange(100) < 40:
+            self.output(self.getActionString("signature_scenarios", self.winner.signaturetype if self.edge == "winner" else self.loser.signaturetype))
+
         finishLoop = True
         while finishLoop:
             if self.edge == "loser":
