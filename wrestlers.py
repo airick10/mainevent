@@ -1,9 +1,19 @@
 class Wrestler:
-    def __init__(self, name, overall, align, style, finisher, finishertype):
+    def __init__(self, name, height, weight, music, entrance, catchphrase, tauntstyle, hometown, overall, align, mic_skill, style, signature, signaturetype, finisher, finishertype):
         self.name = name
+        self.height = height
+        self.weight = weight
+        self.music = music
+        self.entrance = entrance
+        self.catchphrase = catchphrase
+        self.tauntstyle = tauntstyle
+        self.hometown = hometown
         self.overall = overall
+        self.mic_skill = mic_skill
         self.align = align
         self.style = style
+        self.signature = signature
+        self.signaturetype = signaturetype
         self.finisher = finisher
         self.finishertype = finishertype
 
